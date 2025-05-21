@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 06f9c47ac06b7d14297002ae66808cb5
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 96.0.1
+  assetPath: Assets/Mirror/Examples/BenchmarkIdle/MirrorBenchmarkIdle.unity
+  uploadId: 736421

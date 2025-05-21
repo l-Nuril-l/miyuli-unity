@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5b68651dc4d7ca8478ec76e0ff2d1074
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 96.0.1
+  assetPath: Assets/Mirror/Examples/Room/Scenes/MirrorRoomOnline.unity
+  uploadId: 736421

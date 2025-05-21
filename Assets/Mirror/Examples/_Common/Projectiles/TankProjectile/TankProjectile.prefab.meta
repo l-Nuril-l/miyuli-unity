@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 68f84a559f1888c4c9a9b1689cb5d44b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 96.0.1
+  assetPath: Assets/Mirror/Examples/_Common/Projectiles/TankProjectile/TankProjectile.prefab
+  uploadId: 736421

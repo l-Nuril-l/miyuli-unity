@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 261588eb74ab69c4cb74eaee35ad2860
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 96.0.1
+  assetPath: Assets/Mirror/Examples/LagCompensation/MirrorLagCompensation.unity
+  uploadId: 736421
